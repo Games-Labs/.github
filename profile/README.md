@@ -1,6 +1,6 @@
 <div align="center">
 
-🇧🇷 Português | [🇺🇸 English](https://github.com/Games-Labs/.github/blob/main/profile/README.en.md)
+🇧🇷 Português | [🇺🇸 English](https://github.com/Games-Labs/.github/blob/HEAD/profile/README.en.md)
 
 # Games Labs
 
